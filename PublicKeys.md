@@ -17,7 +17,7 @@ AUTHOR=𝘾ᴙ𝗧𝗮𝗳𝘁𝘆.𝗣𝗮𝗻𝗱𝗮
 ### 🎀 Mods( Must be added ):
 - Mods are the people who can use `mod` commands like: `ban`, `unban`, `mute`, `unmute`, `add`, `remove` etc.
 - In other works they are Maintainers of the bot.
-- You can add multiple mods by separating their numbers with `,` like: `918101187835,923045204414` etc. where `91` is country code and `8101187835` is phone number. ( Do not use international format like: `+91 8101187835` or `+918101187835` etc. And also do not use `0` before country code like: `0918101187835` etc.)
+- You can add multiple mods by separating their numbers with `,` like: 923051038557,923010989686` etc. where `92` is country code and `923051038557` is phone number. ( Do not use international format like: `+923051038557` or `+923051038557` etc. And also do not use `0` before country code like: `00923051038557` etc.)
 
 <br>
 
